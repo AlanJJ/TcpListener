@@ -68,7 +68,7 @@
             this.textBox_Port.Name = "textBox_Port";
             this.textBox_Port.Size = new System.Drawing.Size(100, 21);
             this.textBox_Port.TabIndex = 3;
-            this.textBox_Port.Text = "8765";
+            this.textBox_Port.Text = "9999";
             // 
             // button1
             // 
